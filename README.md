@@ -1,3 +1,4 @@
 # SpaceX
 
-SpaceX launch history - React, GraphQL, Apollo
+React, GraphQL, Apollo app that uses the SpaceX API to display launches
+
